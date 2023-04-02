@@ -3,6 +3,3 @@ This is feature for developer 1
 
 
 Dev-2 added his feature into features
-
-
-Dev-2 made conflicts
