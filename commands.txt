@@ -1,0 +1,6 @@
+Commands:
+gitinit                                   --- used to create git repository
+git config --global user.name GRDHUB      ---  This command is used to identify user who is going to perform operations
+git  status                               --- shows files status
+git add filename.txt                      --- add files from working directory to staging area
+git commit -m "msg for commit"            --- transfer file from SA to local git repository
